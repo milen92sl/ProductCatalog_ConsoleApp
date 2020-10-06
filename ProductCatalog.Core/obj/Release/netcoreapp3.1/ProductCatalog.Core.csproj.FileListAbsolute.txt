@@ -1,0 +1,4 @@
+C:\Users\N1\source\repos\C# OOP Exercices\ProductCatalog_WorkShop_Stamo\ProductCatalog.Core\obj\Release\netcoreapp3.1\ProductCatalog.Core.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# OOP Exercices\ProductCatalog_WorkShop_Stamo\ProductCatalog.Core\obj\Release\netcoreapp3.1\ProductCatalog.Core.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\ProductCatalog_WorkShop_Stamo\ProductCatalog.Core\obj\Release\netcoreapp3.1\ProductCatalog.Core.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# OOP Exercices\ProductCatalog_WorkShop_Stamo\ProductCatalog.Core\obj\Release\netcoreapp3.1\ProductCatalog.Core.csproj.CoreCompileInputs.cache
